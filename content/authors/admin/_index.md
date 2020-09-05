@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
    icon_pack: ai
-   link: https://drive.google.com/file/d/1WNX-6YwpfRbr33L9u1E_US19kKJnzpwY/view?usp=sharing
+   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sdotatwood@gmail.com"
