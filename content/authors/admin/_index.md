@@ -15,7 +15,7 @@ role: Psychology PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Princeton University
-  url: ""
+  url: "https://psych.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study the development, perceptions, and implications of gender diversity.
