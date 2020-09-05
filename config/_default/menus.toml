@@ -15,7 +15,7 @@
 
  [[main]]
     name = "CV"
-    url = https://github.com/statwood/statwood-website/blob/master/static/media/cv.pdf
+    url = "https://github.com/statwood/statwood-website/blob/master/static/media/cv.pdf"
     weight = 30
 
 [[main]]
