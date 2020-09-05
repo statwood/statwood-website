@@ -69,7 +69,7 @@ email: "sdotatwood@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:[]
+# user_groups:[]
 ---
 
 I am a graduate student in social psychology at Princeton University working with <a href="https://psych.princeton.edu/person/kristina-olson">Kristina Olson</a>. My research explores the development, perceptions, and implications of gender diversity in adults and children using wide range of methodologies, including reaction-time tasks, self-report surveys, longitudinal studies, and qualitative methods. 
