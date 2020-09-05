@@ -111,9 +111,7 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "@statwoodpsych", link = "https://twitter.com/statwoodpsych"},
-  ]
+contact_links = []
 
 ############################
 ## Social
