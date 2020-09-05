@@ -57,7 +57,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=ToUd9HgAAAAJ
 - icon: osf
   icon_pack: ai
-  link: osf.io/8456a
+  link: https://osf.io/8456a/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
