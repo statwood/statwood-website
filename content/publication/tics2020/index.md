@@ -36,7 +36,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://psyarxiv.com/7ew6k
-supplement: https://osf.io/ry7bp/
 url_code: ''
 url_dataset: ''
 url_poster: ''
