@@ -28,8 +28,8 @@ abstract: Gender identity is a core feature of human experience, yet our underst
 # Summary. An optional shortened abstract.
 summary: Gender identity is a core feature of human experience, yet our understanding of gender identity is shifting with broader societal changes in recognizing and understanding gender diversity. Here we discuss recent trends and upcoming directions for this burgeoning subfield.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:
