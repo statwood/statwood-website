@@ -67,5 +67,5 @@ slides: example
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata into reference management software.
 {{% /alert %}}
