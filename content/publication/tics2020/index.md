@@ -2,7 +2,7 @@
 title: "Studying Gender Diversity"
 authors:
 - Jennifer D. Rubin
-- admin
+- S. Atwood
 - Kristina R. Olson
 author_notes:
 - "Equal contribution"
