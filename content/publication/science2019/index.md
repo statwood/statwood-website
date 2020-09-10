@@ -6,7 +6,7 @@ authors:
 - Dean Knox
 - Daniel M. Ketter
 - Daniel Pickens-Jones
-- admin
+- S. Atwood
 - Christopher Lucas
 - Nori Jacoby
 - Alena A. Egner
