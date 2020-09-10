@@ -44,8 +44,8 @@ abstract: What is universal about music, and what varies? We built a corpus of e
 # Summary. An optional shortened abstract.
 summary: Ethnographic text and audio recordings map out universals and variation in world music.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:
