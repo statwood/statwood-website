@@ -69,5 +69,3 @@ slides: example
 {{% alert note %}}
 Click the *Cite* button above to import publication metadata into their reference management software.
 {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
