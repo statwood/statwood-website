@@ -20,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Trends in Cognitive Sciences, 1*(1)"
+publication: "*Trends in Cognitive Sciences, 24*(3)"
 publication_short: ""
 
-# abstract: Gender identity is a core feature of human experience, yet our understanding of gender identity is shifting with broader societal changes in recognizing and understanding gender diversity. Here we discuss recent trends and upcoming directions for this burgeoning subfield.
+abstract: Gender identity is a core feature of human experience, yet our understanding of gender identity is shifting with broader societal changes in recognizing and understanding gender diversity. Here we discuss recent trends and upcoming directions for this burgeoning subfield.
 
 # Summary. An optional shortened abstract.
 summary: Gender identity is a core feature of human experience, yet our understanding of gender identity is shifting with broader societal changes in recognizing and understanding gender diversity. Here we discuss recent trends and upcoming directions for this burgeoning subfield.
@@ -67,11 +67,11 @@ slides: example
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
