@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Human Behaviour, 366*(6468)"
+publication: "*Nature Human Behaviour"
 publication_short: ""
 
 abstract: Music is characterized by acoustic forms that are predictive of its behavioural functions. For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the basis of their musical features alone. This property could reflect a function of listeners’ experiences, the basic design of the human mind, or both. Here, we show that US infants (N = 144) relax in response to eight unfamiliar foreign lullabies, relative to matched non-lullaby songs from other foreign societies, as indexed by heart rate, pupillometry and electrodermal activity. They do so consistently throughout the first year of life, suggesting that the response is not a function of their musical experiences, which are limited relative to those of adults. The infants’ parents overwhelmingly chose lullabies as the songs that they would use to calm their fussy infant, despite their unfamiliarity. Together, these findings suggest that infants may be predisposed to respond to common features of lullabies found in different cultures.
