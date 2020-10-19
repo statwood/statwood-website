@@ -46,9 +46,8 @@ featured: false
 url_pdf: https://rdcu.be/b8IWP
 url_code: https://github.com/themusiclab/infant-relax
 url_dataset: https://github.com/themusiclab/infant-relax
-url_materials: https://www.themusiclab.org/lullabies
 url_poster: ''
-url_project: ''
+url_project: https://www.themusiclab.org/lullabies
 url_slides: ''
 url_source: ''
 url_video: ''
