@@ -73,6 +73,6 @@ email: "sdotatwood@gmail.com"
 # user_groups:[]
 ---
 
-I am a graduate student in social psychology at Princeton University working with <a href="https://psych.princeton.edu/person/kristina-olson">Kristina Olson</a>. My research explores the development, perceptions, and implications of gender diversity in adults and children using wide range of methodologies, including reaction-time tasks, self-report, longitudinal studies, and qualitative methods. 
+I am a graduate student in social psychology at Princeton University working with <a href="https://psych.princeton.edu/person/kristina-olson">Kristina Olson</a> at the <a href="https://hudl.princeton.edu/">Human Diversity Lab</a>. My research explores the development, perceptions, and implications of gender diversity in adults and children using wide range of methodologies, including reaction-time tasks, self-report, longitudinal studies, and qualitative methods. 
 
 I believe that the most powerful implications of gender diversity occur outside of the academy, and am eager to collaborate with folks beyond the field of psychology to further explore how gender influences our everyday lives. Additionally, I am also interested metascience, particularly as it relates to open science and reproducibility in the field of psychology. Finally, I value human diversity and strongly believe that increasing representation of diverse individuals begets more comprehensive and innovative science. Thus, I am committed to practicing allyship that empowers diverse individuals at all levels of reserach. 
