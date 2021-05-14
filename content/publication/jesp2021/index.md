@@ -17,7 +17,7 @@ publishDate: "2021"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Experimental Social Psychology, (in press)"
+publication: "*Journal of Experimental Social Psychology, (in press)*"
 publication_short: ""
 
 abstract: This research examines attitudes towards androgyny using a novel Implicit Association Test (IAT) that assesses implicit evaluations of gender conforming people (i.e., those who look stereotypically male or female) vs. androgynous people (i.e., those whose appearance includes a combination of masculine and feminine traits). Over 6 studies (N > 6000), we develop a gender expression IAT and present evidence for its internal validity and incremental predictive validity with relevant psychosocial attitudes, such as need for closure, political ideology, and support for nonbinary affirming policies. Although the IAT consistently revealed more positive associations towards gender conforming than androgynous people and was reliably correlated with parallel measures of explicit attitudes, it failed to predict several behavioral outcomes related to gender expression in contexts like judgment, perceptual fluency, and mouse-tracking. We discuss the implications of these results concerning the study of gender expression and implicit social cognition.
