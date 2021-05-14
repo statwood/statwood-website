@@ -1,16 +1,8 @@
 ---
 title: "Assessing Implicit Attitudes about Androgyny"
 authors:
-- Constance M. Bainbridge
-- Mila Bertolo
-- Julie Youngers
 - S. Atwood
-- Lidya Yurdum
-- Jan Simson
-- Kelsie Lopez
-- Feng Xing
-- Alia Martin
-- Samuel A. Mehr
+- Jordan R. Axt
 
 author_notes:
 - "Equal contribution"
