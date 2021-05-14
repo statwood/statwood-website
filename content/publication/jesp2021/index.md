@@ -8,7 +8,7 @@ author_notes:
 - ''
 - ''
 date: "2021-5-11T00:00:00Z"
-doi: "10.1038/s41562-020-00963-z"
+doi: "10.31234/osf.io/gqhcb"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
