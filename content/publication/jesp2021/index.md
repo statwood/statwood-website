@@ -1,5 +1,5 @@
 ---
-title: "Infants relax in response to unfamiliar foreign lullabies"
+title: "Assessing Implicit Attitudes about Androgyny"
 authors:
 - Constance M. Bainbridge
 - Mila Bertolo
