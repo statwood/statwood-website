@@ -34,11 +34,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/b8IWP
-url_code: https://github.com/themusiclab/infant-relax
-url_dataset: https://github.com/themusiclab/infant-relax
+url_pdf: https://psyarxiv.com/gqhcb/
+url_code: ''
+url_dataset: https://osf.io/fq8kp/
 url_poster: ''
-url_project: https://www.themusiclab.org/lullabies
+url_project: https://osf.io/abruw/
 url_slides: ''
 url_source: ''
 url_video: ''
