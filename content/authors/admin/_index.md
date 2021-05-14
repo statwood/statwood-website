@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Psychology PhD Student
+role: Ph.D. Student in Psychology & Social Policy
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Princeton University
-    year: 2020 - 2024 (expected)
+    year: 2020 - 2025 (expected)
   - course: PhD in Psychology
     institution: University of Washington
     year: 2019 - 2020
