@@ -8,7 +8,7 @@ date: ""2021-05-12T00:00:00Z""
 doi: "10.31234/osf.io/gqhcb"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "publishDate: "2021-05-12T00:00:00Z""
+publishDate: "publishDate: "2021-05-11T00:00:00Z""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ featured: false
 #   url: ""
 url_pdf: https://psyarxiv.com/gqhcb/
 url_code: ''
-url_dataset: ''
+url_dataset: https://osf.io/fq8kp/
 url_poster: ''
 url_project: ''
 url_slides: ''
