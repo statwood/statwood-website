@@ -1,25 +1,17 @@
 ---
 title: "Infants relax in response to unfamiliar foreign lullabies"
 authors:
-- Constance M. Bainbridge
-- Mila Bertolo
-- Julie Youngers
 - S. Atwood
-- Lidya Yurdum
-- Jan Simson
-- Kelsie Lopez
-- Feng Xing
-- Alia Martin
-- Samuel A. Mehr
+- Jordan R. Axt
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2020-10-19T00:00:00Z"
-doi: "10.1038/s41562-020-00963-z"
+- ""
+- ""
+date: "2021-05-11T00:00:00Z"
+doi: "10.31234/osf.io/gqhcb"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-05-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,14 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Human Behaviour"
+publication: "*Journal of Experimental Social Psychology"
 publication_short: ""
 
-abstract: Music is characterized by acoustic forms that are predictive of its behavioural functions. For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the basis of their musical features alone. This property could reflect a function of listeners’ experiences, the basic design of the human mind, or both. Here, we show that US infants (N = 144) relax in response to eight unfamiliar foreign lullabies, relative to matched non-lullaby songs from other foreign societies, as indexed by heart rate, pupillometry and electrodermal activity. They do so consistently throughout the first year of life, suggesting that the response is not a function of their musical experiences, which are limited relative to those of adults. The infants’ parents overwhelmingly chose lullabies as the songs that they would use to calm their fussy infant, despite their unfamiliarity. Together, these findings suggest that infants may be predisposed to respond to common features of lullabies found in different cultures.
+abstract:This research examines attitudes towards androgyny using a novel Implicit Association Test (IAT) that assesses implicit evaluations of gender conforming people (i.e., those who look stereotypically male or female) vs. androgynous people (i.e., those whose appearance includes a combination of masculine and feminine traits). Over 6 studies (N > 6000), we develop a gender expression IAT and present evidence for its internal validity and incremental predictive validity with relevant psychosocial attitudes, such as need for closure, political ideology, and support for nonbinary affirming policies. Although the IAT consistently revealed more positive associations towards gender conforming than androgynous people and was reliably correlated with parallel measures of explicit attitudes, it failed to predict several behavioral outcomes related to gender expression in contexts like judgment, perceptual fluency, and mouse-tracking. We discuss the implications of these results concerning the study of gender expression and implicit social cognition.
 
 # Summary. An optional shortened abstract.
-summary: American infants relax in response to lullabies relative to non-lullabies, even when music is drawn from different cultures and sung in foreign languages.
-
+summary: This research examines attitudes towards androgyny using a novel Implicit Association Test (IAT) that assesses implicit evaluations of gender conforming people (i.e., those who look stereotypically male or female) vs. androgynous people (i.e., those whose appearance includes a combination of masculine and feminine traits).
 # tags:
 # - Source Themes
 featured: false
