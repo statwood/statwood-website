@@ -5,8 +5,8 @@ authors:
 - Jordan R. Axt
 
 author_notes:
-- ""
-- ""
+- ''
+- ''
 date: "2020-10-19T00:00:00Z"
 doi: "10.1038/s41562-020-00963-z"
 
