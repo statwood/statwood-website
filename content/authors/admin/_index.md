@@ -15,7 +15,7 @@ role: Ph.D. Student in Psychology & Social Policy
 # Organizations/Affiliations
 organizations:
 - name: Princeton University
-  url: "https://psych.princeton.edu/"
+  url: "https://www.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study the development, perceptions, and implications of gender diversity.
@@ -23,8 +23,8 @@ bio: I study the development, perceptions, and implications of gender diversity.
 interests:
 - Gender Diversity
 - Social Cognition
-- Open Science
 - Diversity & Inclusion
+- Inequality
 
 education:
   courses:
