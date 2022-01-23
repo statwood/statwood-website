@@ -15,7 +15,7 @@ role: Ph.D. Student in Psychology & Social Policy
 # Organizations/Affiliations
 organizations:
 - name: Princeton University
-  url: "https://www.princeton.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study the development, perceptions, and implications of gender diversity.
@@ -73,6 +73,6 @@ email: "sdotatwood@gmail.com"
 # user_groups:[]
 ---
 
-I am a graduate student in <a href="https://psych.princeton.edu/">psychology</a> and <a href="https://jdp.princeton.edu/">social policy</a> at Princeton University working with <a href="https://psych.princeton.edu/person/kristina-olson">Kristina Olson</a> at the <a href="https://hudl.princeton.edu/">Human Diversity Lab</a>. My research explores the development, perceptions, and implications of gender diversity in adults and children. 
+I am a graduate student in <a href="https://psych.princeton.edu/">psychology</a> and <a href="https://jdp.princeton.edu/">social policy</a> at <a href="https://www.princeton.edu/">Princeton University</a> working with <a href="https://psych.princeton.edu/person/kristina-olson">Kristina Olson</a> at the <a href="https://hudl.princeton.edu/">Human Diversity Lab</a>. I am also an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a junior fellow at the <a href="https://www.appliedtransstudies.org/">Center for Applied Transgender Studies</a>. My research explores the development, perceptions, and implications of gender diversity in adults and children. 
 
 I believe that the most powerful implications of gender diversity occur outside of the academy, and am eager to collaborate with folks beyond the field of psychology to further explore how gender influences our everyday lives. Additionally, I value human diversity and strongly believe that increasing representation of diverse individuals begets more comprehensive and innovative science. Thus, I am committed to practicing allyship that empowers diverse individuals at all levels of reserach. 
