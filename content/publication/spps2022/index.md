@@ -11,6 +11,7 @@ author_notes:
 - ''
 - ''
 - ''
+
 date: "2022-09-29T00:00:00Z"
 doi: "10.1177/19485506221127493"
 
@@ -25,9 +26,6 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Social Psychological and Personality Science"
-publication_short: ""
-
-abstract: Prior work finds a consistent association between race and gender: People associate Asian with female and Black with male. We used mouse-tracking to examine whether different U.S. racial/ethnic groups hold this same association (Study 1) and compared Asian-American participants to ethnically Chinese participants in China (Study 2). In Study 1, White and Hispanic participants showed the expected “race is gendered” effect, and the strength of the effect did not differ between men and women. However, participants with a counter-stereotypical racial-gender identity (Black women and Asian men) showed weaker race–gender associations. The same pattern emerged for East Asian participants in Study 2, both among people living in the United States and China. These data provide the first evidence of moderation in Asian-female, Black-male associations and further reveal the importance of considering intersectional identities in social cognition and social perception.
 
 # Summary. An optional shortened abstract.
 summary: This research explores whether race–gender associations in mouse-tracking differed across racial/ethnic groups and between cultures.
