@@ -36,9 +36,9 @@ featured: false
 #   url: ""
 url_pdf: https://psyarxiv.com/zjy8u/
 url_code: ''
-url_dataset: https://osf.io/z8f2g/
+url_dataset: https://github.com/themusiclab/synchrony-expectancy/blob/main/sync-data.csv
 url_poster: ''
-url_project: https://osf.io/dsgxn/
+url_project: https://github.com/themusiclab/synchrony-expectancy
 url_slides: ''
 url_source: ''
 url_video: ''
