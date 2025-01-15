@@ -1,10 +1,10 @@
 ---
 title: "Asian Men and Black Women Hold Weaker Race–Gender Associations: Evidence From the United States and China"
 authors:
-- Jordan R. Axt
+- Natalie M. Wittlin
+- Natalie M. Gallagher
 - S. Atwood
-- Thomas Talhelm
-- Eric Hehman
+- Kristina R. Olson
 
 author_notes:
 - ''
@@ -12,11 +12,11 @@ author_notes:
 - ''
 - ''
 
-date: "2022-09-29T00:00:00Z"
-doi: "10.1177/19485506221127493"
+date: "2024-12-25T00:00:00Z"
+doi: "10.1016/j.jadohealth.2024.10.023"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-01T00:00:00Z"
+publishDate: "2024-12-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +25,11 @@ publishDate: "2022-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Social Psychological and Personality Science"
+publication: "*Journal of Adolescent Health"
+
 
 # Summary. An optional shortened abstract.
-summary: This research explores whether race–gender associations in mouse-tracking differed across racial/ethnic groups and between cultures.
+summary: This study looks at the mental health of a group of medically transitioning transgender adolescents who had made a binary social transition during childhood and who, in general, had not experienced substantial gender-incongruent puberty.
 # tags:
 # - Source Themes
 featured: false
@@ -36,11 +37,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://psyarxiv.com/gzthm/
+url_pdf: ''
 url_code: ''
 url_dataset: https://osf.io/j9xhg/
 url_poster: ''
-url_project: https://osf.io/47mw9/
+url_project: https://osf.io/u8sth/
 url_slides: ''
 url_source: ''
 url_video: ''
