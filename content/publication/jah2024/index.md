@@ -1,5 +1,5 @@
 ---
-title: "Asian Men and Black Women Hold Weaker Race–Gender Associations: Evidence From the United States and China"
+title: "Mental health during medical transition in a US and Canadian sample of early socially transitioned transgender youth"
 authors:
 - Natalie M. Wittlin
 - Natalie M. Gallagher
