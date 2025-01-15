@@ -1,9 +1,8 @@
 ---
-title: "Mental health during medical transition in a US and Canadian sample of early socially transitioned transgender youth"
+title: "Gender essentialism and benevolent sexism in anti-trans rhetoric"
 authors:
-- Natalie M. Wittlin
-- Natalie M. Gallagher
 - S. Atwood
+- Thekla Morgenroth
 - Kristina R. Olson
 
 author_notes:
@@ -12,11 +11,11 @@ author_notes:
 - ''
 - ''
 
-date: "2024-12-25T00:00:00Z"
-doi: "10.1016/j.jadohealth.2024.10.023"
+date: "2024-1-25T00:00:00Z"
+doi: "10.1111/sipr.12099"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-25T00:00:00Z"
+publishDate: "2024-1-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,11 +36,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://spssi.onlinelibrary.wiley.com/doi/10.1111/sipr.12099
 url_code: ''
-url_dataset: https://osf.io/j9xhg/
+url_dataset: ''
 url_poster: ''
-url_project: https://osf.io/u8sth/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
