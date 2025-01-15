@@ -1,17 +1,18 @@
 ---
-title: "Studying Gender Diversity"
+title: "Flexibility in Continuous Judgments of Gender/Sex and Race"
 authors:
-- Jennifer D. Rubin
 - S. Atwood
+- Dominic J. Gibson
+- Sofía Briones Ramírez
 - Kristina R. Olson
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2020-03-01T00:00:00Z"
-doi: "10.1016/j.tics.2019.12.011"
+date: "2024-06-01T00:00:00Z"
+doi: "10.1037/xge0001512"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Trends in Cognitive Sciences, 24*(3)"
+publication: "*Journal of Experimental Psychology: General"
 publication_short: ""
 
-abstract: Gender identity is a core feature of human experience, yet our understanding of gender identity is shifting with broader societal changes in recognizing and understanding gender diversity. Here we discuss recent trends and upcoming directions for this burgeoning subfield.
+abstract: Across six preregistered studies (N = 1,292), we investigate how face perception along the dimensions of gender/sex and race can vary based on immediate contextual information as well as personal experience. 
 
 # Summary. An optional shortened abstract.
-summary: Gender identity is a core feature of human experience, yet our understanding of gender identity is shifting with broader societal changes in recognizing and understanding gender diversity. Here we discuss recent trends and upcoming directions for this burgeoning subfield.
+summary: Across six preregistered studies (N = 1,292), we investigate how face perception along the dimensions of gender/sex and race can vary based on immediate contextual information as well as personal experience. 
 
 # tags:
 # - Source Themes
@@ -35,9 +36,9 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://psyarxiv.com/7ew6k
-url_code: ''
-url_dataset: ''
+url_pdf: https://osf.io/preprints/psyarxiv/9qfsz
+url_code: https://osf.io/3xzq9/
+url_dataset: https://osf.io/3xzq9/
 url_poster: ''
 url_project: ''
 url_slides: ''
