@@ -24,7 +24,7 @@ publishDate: "2024-1-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Adolescent Health"
+publication: "*Social Issues and Policy Review"
 
 
 # Summary. An optional shortened abstract.
