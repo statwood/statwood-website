@@ -29,7 +29,7 @@ abstract: This research examines attitudes towards androgyny using a novel Impli
 summary: This research examines attitudes towards androgyny using a novel Implicit Association Test (IAT) that assesses implicit evaluations of gender conforming people (i.e., those who look stereotypically male or female) vs. androgynous people (i.e., those whose appearance includes a combination of masculine and feminine traits). 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
