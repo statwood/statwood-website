@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Psychology & Social Policy
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Princeton University
-  url: ""
+- name: Children's Hospital of Philadelphia
+  url: "https://www.chop.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study the development, perceptions, and implications of gender diversity.
 
 interests:
 - Gender Diversity
-- Social Cognition
+- Gender-Affirming Care
 - Diversity & Inclusion
 - Inequality
 
@@ -30,10 +30,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Princeton University
-    year: 2020 - 2025 (expected)
-  - course: PhD in Psychology
-    institution: University of Washington
-    year: 2019 - 2020
+    year: 2020 - 2025 
   - course: BA in Psychology 
     institution: Oberlin College
     year: 2012 - 2016
@@ -48,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:satwood@princeton.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/statwoodpsych
+  link: mailto:sdotatwood@gmail.com
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2889-9575
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=ToUd9HgAAAAJ
@@ -73,6 +70,6 @@ email: "sdotatwood@gmail.com"
 # user_groups:[]
 ---
 
-I am a graduate student in <a href="https://psych.princeton.edu/">psychology</a> and <a href="https://jdp.princeton.edu/">social policy</a> at <a href="https://www.princeton.edu/">Princeton University</a> working with <a href="https://psych.princeton.edu/person/kristina-olson">Kristina Olson</a> at the <a href="https://hudl.princeton.edu/">Human Diversity Lab</a>. I am also an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a junior fellow at the <a href="https://www.appliedtransstudies.org/">Center for Applied Transgender Studies</a>. My research explores the development, perceptions, and implications of gender diversity in adults and children. 
+I am a Research Associate at the <a href="https://www.chop.edu">Children's Hospital of Philadelphia</a> where I work on projects with the <a href="https://www.chop.edu/centers-programs/gender-and-sexuality-development-program">Gender and Sexuality Development Program</a> and <a href="https://www.policylab.chop.edu/">PolicyLab</a>. Previously, I completed my PhD in <a href="https://psych.princeton.edu/">psychology</a> and <a href="https://jdp.princeton.edu/">social policy</a> at <a href="https://www.princeton.edu/">Princeton University</a> where I was an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and member of the <a href="https://hudl.princeton.edu/">Human Diversity Lab</a>. 
 
 I believe that the most powerful implications of gender diversity occur outside of the academy, and am eager to collaborate with folks beyond the field of psychology to further explore how gender influences our everyday lives. Additionally, I value human diversity and strongly believe that increasing representation of diverse individuals begets more comprehensive and innovative science. Thus, I am committed to practicing allyship that empowers diverse individuals at all levels of research. 
