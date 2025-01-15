@@ -30,7 +30,7 @@ summary: Gender identity is a core feature of human experience, yet our understa
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
