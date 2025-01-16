@@ -27,7 +27,7 @@ publication: "*Social Issues and Policy Review"
 
 
 # Summary. An optional shortened abstract.
-summary: This study looks at the mental health of a group of medically transitioning transgender adolescents who had made a binary social transition during childhood and who, in general, had not experienced substantial gender-incongruent puberty.
+summary: We identify psychological constructs reflected in anti-trans rhetoric and then review existing literature on the consequences and beliefs associated with these constructs. Based upon this review, we argue that the reasoning used to promote anti-trans laws specifically, essentialist beliefs and benevolent sexism—is actually associated with outcomes that are detrimental to the very groups these laws purport to protect.
 # tags:
 # - Source Themes
 featured: false
