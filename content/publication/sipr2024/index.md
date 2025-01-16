@@ -23,7 +23,7 @@ publishDate: "2024-01-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Social Issues and Policy Review"
+publication: "*Social Issues and Policy Review, 18*(1)"
 
 
 # Summary. An optional shortened abstract.
