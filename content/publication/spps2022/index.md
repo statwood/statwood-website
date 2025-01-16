@@ -25,7 +25,7 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Social Psychological and Personality Science"
+publication: "*Social Psychological and Personality Science, 14*(6)"
 
 # Summary. An optional shortened abstract.
 summary: This research explores whether race–gender associations in mouse-tracking differed across racial/ethnic groups and between cultures.
