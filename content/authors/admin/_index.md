@@ -18,11 +18,12 @@ organizations:
   url: "https://www.chop.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the development, perceptions, and implications of gender diversity.
+bio: I study health equity and gender-affirming care.
 
 interests:
 - Gender Diversity
 - Gender-Affirming Care
+- Health Equity
 - Diversity & Inclusion
 - Inequality
 
