@@ -52,7 +52,7 @@ social:
   link: https://orcid.org/0000-0003-2889-9575
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=ToUd9HgAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=kGP60OwAAAAJ
 - icon: osf
   icon_pack: ai
   link: https://osf.io/8456a/
